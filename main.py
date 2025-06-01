@@ -1,4 +1,4 @@
-# Importing necessary packages 
+
 import shutil 
 import tkinter as tk 
 from tkinter import *
